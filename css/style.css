@@ -290,7 +290,14 @@ body {
   position: relative;
 }
 
+.card__picture {
+  width: 100%;
+  max-width: 798px;
+  height: 100%;
+}
+
 .card__img {
+  width: 100%;
   max-width: 798px;
   position: relative;
   margin: 0 auto;
